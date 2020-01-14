@@ -46,7 +46,7 @@ restaurant.placeOrder(porkComboMeal);
 // Invoke the function to return the list of all orders
 let allOrders = restaurant.getAllOrders();
 // Output all orders to the console using console.table()
-console.table(allOrders);
+console.table(allOrders); 
 
 
 
